@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+  "files.insertFinalNewline": false,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  },
+  "javascript.preferences.importModuleSpecifier": "relative",
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}

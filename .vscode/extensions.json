@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "naumovs.color-highlight",
+    "usernamehw.errorlens",
+    "vincaslt.highlight-matching-tag",
+    "leizongmin.node-module-intellisense",
+    "christian-kohler.npm-intellisense",
+    "esbenp.prettier-vscode",
+    "wayou.vscode-todo-highlight",
+    "shardulm94.trailing-spaces"
+  ]
+}
